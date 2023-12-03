@@ -3,6 +3,7 @@ This FREE resource was developed for the Pulse RP server (zombie server). When t
 ***Customize the following in the client.lua and heartbeat.html*** 
 
 * Sound played (index.html)
+  https://ragemp.fandom.com/wiki/Sounds (swap out sounds)
 * Damage effect type (client.lua)
 * Screen shake intensity (client.lua)
 
