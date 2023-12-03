@@ -1,6 +1,6 @@
 This FREE resource was developed for the Pulse RP server (zombie server). When the player is attacked a screen shake will occur, followed by a screen affect and lastly a heartbeat will be heard by the player when their health reaches a certain percentage.
 
-***Customize the following in the client.lua and heartbeat.html*** 
+***Customize the following in the client.lua*** 
 
 * Sound played (client.lua)
 * Damage effect type (client.lua)
