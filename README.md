@@ -11,3 +11,4 @@ This FREE resource was developed for the Pulse RP server (zombie server). When t
 Join the fight to take back the city from the dead | **AVAILABLE NOW**: [https://discord.gg/YTbG9KdAaG](https://discord.gg/YTbG9KdAaG) | 2024 Roleplay Server (non zombie) Release: Smuggle drugs, cars and travel between two different cities, understand the economy and commodity prices of each city and do your best to not get caught by US Customs / Border Protection and TSA!
 
 Developed by: [Cooch](https://www.twitch.tv/king_1455) & [Afro](http://www.twitch.tv/afro)
+Thank you: https://github.com/beejugames
